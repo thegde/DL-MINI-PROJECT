@@ -1,0 +1,2 @@
+Model,Test Accuracy,Precision,Recall,F1-Score,ROC-AUC,Test Loss
+Custom CNN,0.8894,0.8759,0.959,0.9155,0.9544,0.3016

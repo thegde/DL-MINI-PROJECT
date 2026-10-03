@@ -1,0 +1,2 @@
+Model,Test Accuracy,Precision,Recall,F1-Score,ROC-AUC,Test Loss
+ResNet50,0.7179,0.6918,0.9897,0.8143,0.9258,0.6674

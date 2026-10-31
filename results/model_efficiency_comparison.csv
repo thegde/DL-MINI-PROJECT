@@ -1,0 +1,4 @@
+Model,Parameters,Model Size (MB),Inference Time (ms)
+Custom CNN,12938561,148.13,6.0973
+ResNet50,23589761,90.65,9.2746
+DenseNet121,70385529,28.32,7.0417
